@@ -1,4 +1,4 @@
-# Frontend Graded Assignment -2 (Javascript)
+# Graded Assignment -2 (Javascript)
 
 In Login Page:
 1. Store the username and password in local storage
